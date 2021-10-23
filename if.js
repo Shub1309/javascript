@@ -56,15 +56,15 @@
 // a++ preincreament
 // a--postincreament
 
-var age=10
-var nationality="indian"
+// var age=10
+// var nationality="indian"
 
-if(age>18){
-    if(nationality=="indian"){
-    console.log("allgood")
-    }
-}
+// if(age>18){
+//     if(nationality=="indian"){
+//     console.log("allgood")
+//     }
+// }
 
-if(age>18 || nationality=="indian"){
-console.log("all good")
-}
+// if(age>18 || nationality=="indian"){
+// console.log("all good")
+// }

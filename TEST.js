@@ -9,7 +9,7 @@
 //     console.info("Yes");
 // }else{
 //     console.info("No");
-}
+// }
 
 // var a=13
 // if(a%2 == 0){
@@ -34,8 +34,7 @@
 //     console.log(q+" equal than 90")
 // }
 
-    console.log(q+" smaller than 100")
-}else {
-    console.log(q+" equal than 100")
-}
-
+//     console.log(q+" smaller than 100")
+// }else {
+//     console.log(q+" equal than 100")
+// }
