@@ -1,0 +1,17 @@
+
+
+{
+    "name":"shubham",
+    "graduation":"false",
+    "year":2018,
+    "marks":64.47,
+    "data":["ybp",2018,true,"sawantwadi"],
+    "d1":{
+        "name":"shubham",
+        "graduation":"false",
+        "year":2018,
+        "marks":64.47,
+        "data":["ybp",2018,true,"sawantwadi"]
+    }
+     
+}

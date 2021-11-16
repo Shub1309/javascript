@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "0.4.1",
+  "description": "All about myself",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shub1309/javascript.git"
+  },
+  "keywords": [],
+  "author": "Shubham Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shub1309/javascript/issues"
+  },
+  "homepage": "https://github.com/Shub1309/javascript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
